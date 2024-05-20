@@ -61,5 +61,3 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de mi 
 Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, revisa el archivo [LICENSE](LICENSE).
 
 ---
-
-¡Gracias por utilizar mi herramienta de encriptación de mensajes!
